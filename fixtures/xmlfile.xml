@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MemberAPI_Result xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/">
+  <Kekka>OK</Kekka>
+  <MessageCode />
+  <MessageKind>0</MessageKind>
+  <SoapHeader>
+    <StaffCode />
+    <SysCustID />
+    <HotelCd />
+    <HotelCode />
+    <ShisetsuCode />
+    <ResultNo />
+    <ResultMessage />
+    <SysVeriPass />
+    <TransactionId />
+    <ClientId />
+    <ClientIPAdress />
+    <SystemDate />
+  </SoapHeader>
+  <MemberAPIList>
+    <MemberAPI>
+      <ProcessedId />
+      <ProcessedMessage />
+      <Kekka>OK</Kekka>
+      <MessageCode />
+      <MessageKind>0</MessageKind>
+      <MemberCode>1</MemberCode>
+      <NameSei>ヤマグチ</NameSei>
+      <NameMei>ショウゴ</NameMei>
+      <sex>001</sex>
+      <Telephone>0900</Telephone>
+      <ClsCorp>002</ClsCorp>
+      <UserMailAddr>a@a.com</UserMailAddr>
+      <PassWord>123456</PassWord>
+    </MemberAPI>
+  </MemberAPIList>
+</MemberAPI_Result>
